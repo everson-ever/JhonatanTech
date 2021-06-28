@@ -22,6 +22,6 @@
 <img src="https://cdn.icon-icons.com/icons2/1826/PNG/128/4202050chatlogosocialsocialmediawhatsapp-115638_115663.png" align="center" height="100">
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5511948410992">
+<a href="https://jhonatantech.github.io/site/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" align="center" height="100">
 </a>
