@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <div>
-   <img height="200px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JhonatanTech&show_icons=true&theme=radical&bg_color=000&border_color=D00FF7F&icon_color=A020F0&text_color=00FF7F&title_color=A020F0&&locale=pt-br&border_radius=20&hide_border=true" align="center">
+   <img height="205px" src="https://github-readme-stats.vercel.app/api?username=JhonatanTech&show_icons=true&theme=radical&bg_color=000&border_color=D00FF7F&icon_color=A020F0&text_color=00FF7F&title_color=A020F0&&locale=pt-br&border_radius=20&hide_border=true" align="center">
 
-   <img height="200px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanTech&layout=compact&bg_color=000&border_color=D00FF7F&icon_color=A020F0&text_color=00FF7F&title_color=A020F0&locale=pt-br&border_radius=20&hide_border=true" align="center">
+   <img height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanTech&layout=compact&bg_color=000&border_color=D00FF7F&icon_color=A020F0&text_color=00FF7F&title_color=A020F0&locale=pt-br&border_radius=20&hide_border=true" align="center">
 </div>
 
 ![Snake animation](https://github.com/JhonatanTech/JhonatanTech/blob/output/github-contribution-grid-snake.svg)
