@@ -21,4 +21,4 @@
 <img src="https://cdn.icon-icons.com/icons2/1826/PNG/128/4202050chatlogosocialsocialmediawhatsapp-115638_115663.png" align="center" height="100">
 </a>
 
-![Snake animation](https://github.com/JhonatanTech)
+![Snake animation](https://github.com/JhonatanTech/JhonatanTech/blob/output/github-contribution-grid-snake.svg)
